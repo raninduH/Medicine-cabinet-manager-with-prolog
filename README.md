@@ -1,0 +1,1 @@
+An intelligent system built in Prolog to manage a home medicine cabinet. It helps users track medication availability, expiration dates, and dosages, ensuring that home medical supplies are well-organized and safe to use.
